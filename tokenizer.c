@@ -1,4 +1,5 @@
-#incude "shell.h"
+#include "shell.h"
+#include <stdlib.h>
 
 /**
  * **strtow - splits a string into words. Repeat delimiters are ignored
